@@ -1,0 +1,2 @@
+# DaysOfTheYear 
+ This is basic game named Days of the year we have 2 players and the first player to get to the 31st of december wins the game and this game has it rules you can not go back from a date choose by a player for example let say the current date is 28 of march you can not choose a date lesser than 28 of march you have to choose a date greater than 28 march and this game also has the feature to validate the date inputted by each user
